@@ -2,7 +2,10 @@ name-template: v$NEXT_PATCH_VERSION 🌈
 tag-template: v$NEXT_PATCH_VERSION
 categories:
   - title: 🚀 Features
-    label: feature
+    labels:
+      - feature
+      - big batch
+      - small batch
   - title: 🐛 Bug Fixes
     labels:
       - fix
@@ -10,6 +13,8 @@ categories:
   - title: 🧰 Maintenance
     labels:
       - chore
+  - title: 📦️ Dependencies
+    labels:
       - dependencies
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 template: |
