@@ -12,9 +12,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: micnncim/action-label-syncer@v1
         env:
-          VANGST_ROBOT_TOKEN: ${{ secrets.VANGST_ROBOT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           manifest: .github/labels.yml
-          repository: |
-            vangst/smokey
-          token: ${{ secrets.VANGST_ROBOT_TOKEN }}
