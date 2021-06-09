@@ -6,7 +6,7 @@ effective [environment for collaboration][community].
 
 [vangst.com][vangst]
 
-<!-- LINKS -->
+<!-- LINKS! -->
 
 [actions]: https://help.github.com/en/actions
 [community]: https://help.github.com/en/github/building-a-strong-community
