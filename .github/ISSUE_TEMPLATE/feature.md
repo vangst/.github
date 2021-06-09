@@ -4,7 +4,6 @@ about: Shaping and tracking new features
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
 <img src="https://source.unsplash.com/848x256/daily?fish" width="848px" height="256px" />
