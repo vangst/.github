@@ -19,4 +19,4 @@ jobs:
         env:
           VANGST_ROBOT_TOKEN: ${{ secrets.VANGST_ROBOT_TOKEN }}
         run: |
-          curl -X POST -H 'Content-type: application/json' -H 'Accept: application/vnd.github.everest-preview+json' -H 'Authorization: token $(VANGST_ROBOT_TOKEN)' --data '{"event_type": "labeler"}' https://api.github.com/repos/vangst/smokey/dispatches
+          curl -X POST -H "Content-type: application/json" -H "Accept: application/vnd.github.everest-preview+json" -H "Authorization: token $VANGST_ROBOT_TOKEN" --data '{"event_type": "labeler"}' https://api.github.com/repos/vangst/smokey/dispatches
