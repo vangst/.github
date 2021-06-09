@@ -9,9 +9,10 @@ assignees: ''
 
 Please describe what happened.
 
-### Severity Level: :fire: or :face_with_head_bandage: or :snail:
+## Severity:
+:fire: or :face_with_head_bandage: or :snail:
 
-### Steps to Reproduce, console errors or screen captures?
+## Steps to reproduce, console errors or screen captures?
 
 1. Go to '...'
 2. Click on '....'
@@ -22,7 +23,9 @@ Please describe what happened.
 Paste console error if applicable.
 ```
 
-### Device Settings
+Add screenshot or video captures
+
+## Device
 
 If possible add device information:
 
