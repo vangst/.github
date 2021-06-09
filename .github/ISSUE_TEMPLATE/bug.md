@@ -9,31 +9,25 @@ assignees: ''
 
 Please describe what happened.
 
-### Severity Level :fire: or :face_with_head_bandage: or :snail:
+### Severity Level: :fire: or :face_with_head_bandage: or :snail:
 
-### Steps to Reproduce
+### Steps to Reproduce, console errors or screen captures?
 
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-### Console Errors
-
 ```
-Pasted console error here please!.
+Paste console error if applicable.
 ```
-
-### Screen Captures
-
-If applicable, add screenshots or video to help explain your problem.
 
 ### Device Settings
 
 If possible add device information:
 
  - OS: [e.g. Windows, macOS, iOS]
- - Browser [e.g. Chrome, Safari]
- - Version [e.g. 23]
+ - Browser: [e.g. Chrome, Safari]
+ - Browser Version: [e.g. 23]
 
-or paste the results from whatismybrowser.com
+or paste the results from [whatismybrowser.com](https://www.whatismybrowser.com)
