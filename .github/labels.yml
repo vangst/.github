@@ -1,9 +1,12 @@
-- name: 🏔·
-  description: Above tree line
-  color: ffffff
-- name: 🌲·
-  description: Below tree line
-  color: ffffff
+- name: BE
+  description: Backend work
+  color: 4395f2
+- name: bug
+  description: Something isn't working
+  color: e9282c
+- name: chore
+  description: A non issue related ticket
+  color: 3d3937
 
 - name: 'cooldown: 5.10 - 5.21'
   description: ❄️
@@ -31,18 +34,15 @@
   description: 🌥
   color: 5e614b
 
-- name: BE
-  description: Backend work
-  color: 4395f2
-- name: bug
-  description: Something isn't working
-  color: e9282c
-- name: chore
-  description: A non issue related ticket
-  color: 3d3937
 - name: FE
   description: Frontend work
   color: f9980d
 - name: feature
   description: The fun stuff
   color: c5def5
+- name: 🏔·
+  description: Above tree line
+  color: ffffff
+- name: 🌲·
+  description: Below tree line
+  color: ffffff
