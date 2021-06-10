@@ -26,20 +26,16 @@ on:
       - .github/workflows/gh-labels.yml
 jobs:
   labels_sync:
-    strategy:
-      fail-fast: false
-      matrix:
-        repo:
-          - vangst/smokey
-
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2.3.3
-      - name: Sync
-        uses: micnncim/action-label-syncer@v1.2.0
+      - uses: actions/checkout@v2.3.3
+      - uses: micnncim/action-label-syncer@v1.2.0
+        env:
+          VANGST_ROBOT_TOKEN: ${{ secrets.VANGST_ROBOT_TOKEN }}
         with:
           manifest: .github/labels.yml
-          repository: ${{ matrix.repo }}
+          repository: |
+            vangst/smokey
+            # vangst/oogmerk
+            # vangst/oogst
           token: ${{ secrets.VANGST_ROBOT_TOKEN }}
-          prune: false
