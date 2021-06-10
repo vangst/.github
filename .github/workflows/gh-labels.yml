@@ -17,8 +17,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: micnncim/action-label-syncer@v1
+        env:
+          VANGST_ROBOT_TOKEN: ${{ secrets.VANGST_ROBOT_TOKEN }}
         with:
           manifest: .github/labels.yml
           repository: ${{ matrix.repo }}
           token: ${{ secrets.VANGST_ROBOT_TOKEN }}
-          # prune: false
+          prune: false
