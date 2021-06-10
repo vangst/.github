@@ -3,35 +3,25 @@
   color: 4395f2
 - name: bug
   description: Something isn't working
-  color: e9282c
+  color: ff0000
 - name: chore
   description: A non issue related ticket
   color: 3d3937
-
-- name: 'cooldown: 5.10 - 5.21'
-  description: ❄️
-  color: afc6f2
-- name: 'cooldown: 06.21 - 06.25'
-  description: ❄️
-  color: afc6f2
-- name: 'cooldown: 07.26 - 07.30'
-  description: ❄️
-  color: afc6f2
-- name: 'cooldown: 08.30 - 09.03'
-  description: ❄️
+- name: cooldown
+  description: Something to work on between cycles
   color: afc6f2
 
 - name: 'cycle: 3.29 - 5.7'
-  description: 🌧
+  description: ''
   color: d08f45
 - name: 'cycle: 5.24 - 6.18'
-  description: ☀️
+  description: ''
   color: d93f0b
 - name: 'cycle: 06.28 - 07.23'
-  description: ⛅️
+  description: ''
   color: 7ebe3e
 - name: 'cycle: 08.02 - 08.27'
-  description: 🌥
+  description: ''
   color: 5e614b
 
 - name: FE
@@ -40,9 +30,16 @@
 - name: feature
   description: The fun stuff
   color: c5def5
-- name: 🏔·
+- name: 🏔∴
   description: Above tree line
   color: ffffff
-- name: 🌲·
+- name: 🌲∴
   description: Below tree line
   color: ffffff
+
+- name: dependencies
+  description: Dependabot pull requests that update a package
+  color: 0366d6
+- name: javascript
+  description: Dependabot pull requests that update Javascript code
+  color: 168700
