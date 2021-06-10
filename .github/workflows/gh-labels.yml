@@ -5,14 +5,8 @@ on:
       - main
     # paths:
     # - .github/labels.yml
-    # - .github/workflows/gh-labels.yml
 jobs:
-  label_sync:
-    strategy:
-      fail-fast: false
-      matrix:
-        repo:
-          - vangst/smokey
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -21,6 +15,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           manifest: .github/labels.yml
-          repository: ${{ matrix.repo }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          prune: false
