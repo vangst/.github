@@ -12,7 +12,7 @@ Add a description about what this thing has to do.
 
 Include design comps, user flows, analytics or relevant data points.
 
-## 📋 PT Tasks
+## 📋 GT Tasks
 
 _No tasks_
 
@@ -21,6 +21,10 @@ _No tasks_
 _No tasks_
 
 ## 📋 BE Tasks
+
+_No tasks_
+
+## 🩺 QA Tasks
 
 _No tasks_
 
