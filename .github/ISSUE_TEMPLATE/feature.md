@@ -12,15 +12,19 @@ Add a description about what this thing has to do.
 
 Include design comps, user flows, analytics or relevant data points.
 
-## 📋 GT Tasks
+## ❓ Questions
+
+_No questions_
+
+## 🌱 GT Tasks
 
 _No tasks_
 
-## 📋 FE Tasks
+## 🎨 FE Tasks
 
 _No tasks_
 
-## 📋 BE Tasks
+## 🗃️ BE Tasks
 
 _No tasks_
 
@@ -31,11 +35,3 @@ _No tasks_
 ## 🧞 Nice to have
 
 _No tasks_
-
-## ❓ Questions
-
-_No questions_
-
-## 🐛 Bugs
-
-_No bugs_
