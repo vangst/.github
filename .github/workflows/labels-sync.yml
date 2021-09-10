@@ -5,7 +5,6 @@ on:
       - main
     paths:
       - '.github/labels.yml'
-      - '.github/workflows/labels-sync.yml'
 concurrency: labels-sync
 jobs:
   sync:
@@ -23,4 +22,5 @@ jobs:
         with:
           token: ${{ secrets.VANGST_ROBOT_TOKEN }}
           repository: ${{ matrix.repo }}
+          manifest: .github/labels.yaml
           prune: false

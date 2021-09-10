@@ -10,7 +10,6 @@
 - name: cooldown
   description: Something to work on between cycles
   color: afc6f2
-
 - name: 'cycle: 03.29 - 05.07'
   description: ''
   color: d08f45
@@ -23,7 +22,6 @@
 - name: 'cycle: 08.02 - 08.27'
   description: ''
   color: 5e614b
-
 - name: FE
   description: Frontend work
   color: f9980d
@@ -36,7 +34,6 @@
 - name: 🌲∴
   description: Below tree line
   color: ffffff
-
 - name: dependencies
   description: Dependabot pull requests that update a package
   color: 0366d6
