@@ -22,5 +22,5 @@ jobs:
         with:
           token: ${{ secrets.VANGST_ROBOT_TOKEN }}
           repository: ${{ matrix.repo }}
-          manifest: .github/labels.yaml
+          manifest: .github/labels.yml
           prune: false
