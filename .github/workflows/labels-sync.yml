@@ -5,6 +5,7 @@ on:
       - main
     paths:
       - '.github/labels.yml'
+      - '.github/workflows/labels-sync.yml'
 concurrency: labels-sync
 jobs:
   sync:
@@ -12,7 +13,10 @@ jobs:
       fail-fast: false
       matrix:
         repo:
-          - vangst/smokey 
+          - vangst/smokey
+          - vangst/platform
+          - vangst/oogmerk
+          - vangst/oogst
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

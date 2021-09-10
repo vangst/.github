@@ -1,9 +1,6 @@
 - name: BE
   description: Backend work
   color: 4395f2
-- name: test
-  description: Testing Label
-  color: 4395f2
 - name: bug
   description: Something isn't working
   color: ff0000
