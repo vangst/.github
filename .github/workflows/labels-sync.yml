@@ -1,0 +1,26 @@
+name: labels-sync
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/labels.yml'
+      - '.github/workflows/labels-sync.yml'
+concurrency: labels-sync
+jobs:
+  sync:
+    strategy:
+      fail-fast: false
+      matrix:
+        repo:
+          - vangst/smokey 
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.4
+      - name: Sync
+        uses: micnncim/action-label-syncer@v1.3.0
+        with:
+          token: ${{ secrets.VANGST_ROBOT_TOKEN }}
+          repository: ${{ matrix.repo }}
+          prune: false
