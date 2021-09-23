@@ -1,6 +1,9 @@
 - name: BE
   description: Backend work
   color: 4395f2
+- name: Test Tag
+  description: Testing tag for product checkin
+  color: 4395f2
 - name: bug
   description: Something isn't working
   color: ff0000
