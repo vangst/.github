@@ -18,6 +18,8 @@ categories:
       - dependencies
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 template: |
+  ![Smokey](https://github.com/vangst/smokey/workflows/CI%20Smokey/badge.svg)
+  
   ## Changes
 
   $CHANGES
