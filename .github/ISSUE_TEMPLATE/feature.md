@@ -16,7 +16,11 @@ Include design comps, user flows, analytics or relevant data points.
 
 _No questions_
 
-## 🌱 GT Tasks
+## ⚽ GW (design) Tasks
+
+_No tasks_
+
+## 🌱 PM Tasks
 
 _No tasks_
 
