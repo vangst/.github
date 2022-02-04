@@ -25,16 +25,10 @@
 - name: 'cycle: 08.02 - 08.27'
   description: ''
   color: 5e614b
-- name: 'cycle: 02.07 - 03.18'
+- name: 'cycle: 02.28 - 04.08'
   description: ''
   color: fc7f03
-- name: 'cycle: 04.04 - 05.13'
-  description: ''
-  color: a103fc
-- name: 'cycle: 05.30 - 06.08'
-  description: ''
-  color: 03fc6f
-- name: 'cycle: 07.25 - 09.01'
+- name: 'cycle: mini 🛵 02.08'
   description: ''
   color: 9d03fc
 - name: FE
