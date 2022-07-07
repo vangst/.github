@@ -13,24 +13,6 @@
 - name: cooldown
   description: Something to work on between cycles
   color: afc6f2
-- name: 'cycle: 03.29 - 05.07'
-  description: ''
-  color: d08f45
-- name: 'cycle: 05.24 - 06.18'
-  description: ''
-  color: d93f0b
-- name: 'cycle: 06.28 - 07.23'
-  description: ''
-  color: 7ebe3e
-- name: 'cycle: 08.02 - 08.27'
-  description: ''
-  color: 5e614b
-- name: 'cycle: 02.28 - 04.08'
-  description: ''
-  color: fc7f03
-- name: 'cycle: mini 🛵 02.08'
-  description: ''
-  color: 9d03fc
 - name: FE
   description: Frontend work
   color: f9980d
@@ -49,3 +31,6 @@
 - name: javascript
   description: Dependabot pull requests that update Javascript code
   color: 168700
+- name: cycle 07.11 - 07.22
+  description: Short Cycle 
+  color: 9d03fc
