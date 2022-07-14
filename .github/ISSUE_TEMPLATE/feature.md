@@ -8,7 +8,9 @@ assignees: ''
 
 <img src="https://source.unsplash.com/848x256/daily?fish" width="100%" height="100%" />
 
-Add a description about what this thing has to do.
+## Summary
+
+_Add a description for release notes_
 
 Include design comps, user flows, analytics or relevant data points.
 
@@ -16,30 +18,6 @@ Include design comps, user flows, analytics or relevant data points.
 
 _No questions_
 
-## ⚽ GW (design) Tasks
-
-_No tasks_
-
-## 🌱 PM Tasks
-
-_No tasks_
-
-## 📊 Tracking Tasks
-
-_No tasks_
-
-## 🎨 FE Tasks
-
-_No tasks_
-
-## 🗃️ BE Tasks
-
-_No tasks_
-
-## 🩺 QA Tasks
-
-_No tasks_
-
-## 🧞 Nice to have
+## 🏋️ Tasks
 
 _No tasks_

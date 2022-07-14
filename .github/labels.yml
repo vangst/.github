@@ -1,9 +1,6 @@
 - name: BE
   description: Backend work
   color: 4395f2
-- name: Test Tag
-  description: Testing tag for product checkin
-  color: 4395f2
 - name: bug
   description: Something isn't working
   color: ff0000
@@ -32,5 +29,5 @@
   description: Dependabot pull requests that update Javascript code
   color: 168700
 - name: cycle 07.11 - 07.22
-  description: Short Cycle 
+  description: Short Cycle
   color: 9d03fc
