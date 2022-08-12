@@ -1,11 +1,11 @@
-## Product Summary
+## 🎁 Product Summary
 
 _Add a description for release notes_
 
-## Engineering Summary
+## 🧰 Engineering Summary
 
 _Add a description for code reviews_
 
-## Related
+## ⭐️ Related
 
-_List related issues PRs, cards, etc._
+_Link related Issues, PRs, Slack Threads, Docs, etc._
