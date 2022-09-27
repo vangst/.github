@@ -34,3 +34,12 @@
 - name: cycle 07.11 - 07.22
   description: Short Cycle
   color: 9d03fc
+- name: 🔥 bug p1
+  description: Highest Priority Bug
+  color: e50000
+- name: 🤕 bug p2
+  description: Medium Priority Bug
+  color: cc0000
+- name: 🐌 bug p3
+  description: Low Priority Bug
+  color: b20000
