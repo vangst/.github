@@ -10,7 +10,7 @@
 - name: cooldown
   description: Something to work on between cycles
   color: afc6f2
-  - name: Design
+- name: Design
   description: Needs Design Input
   color: 9d63fc
 - name: FE
