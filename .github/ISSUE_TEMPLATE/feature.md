@@ -28,4 +28,17 @@ _Link related Issues, PRs, Slack Threads, Docs, etc._
 
 ## 🏋️ Tasks
 
+### 🎨 Design: 
+_No tasks_
+
+### 🔬 Product: 
+_No tasks_
+
+### 🌻 Font-End: 
+_No tasks_
+
+### 🧱 Back-End: 
+_No tasks_
+
+## 🏋️ QA:
 _No tasks_

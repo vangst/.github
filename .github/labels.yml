@@ -1,4 +1,4 @@
-- name: BE
+- name: 🧱BE
   description: Backend work
   color: 4395f2
 - name: bug
@@ -10,10 +10,7 @@
 - name: cooldown
   description: Something to work on between cycles
   color: afc6f2
-- name: Design
-  description: Needs Design Input
-  color: 9d63fc
-- name: FE
+- name: 🌻FE
   description: Frontend work
   color: f9980d
 - name: feature
@@ -31,9 +28,6 @@
 - name: javascript
   description: Dependabot pull requests that update Javascript code
   color: 168700
-- name: cycle 07.11 - 07.22
-  description: Short Cycle
-  color: 9d03fc
 - name: 🔥 bug p1
   description: Highest Priority Bug
   color: e50000
@@ -43,3 +37,12 @@
 - name: 🐌 bug p3
   description: Low Priority Bug
   color: b20000
+- name: 🎨Design
+  description: Design Task
+  color: e99695
+- name: 🔬Product
+  description: Product Task
+  color: B8F793
+- name: 🎨Design
+  description: Design Task
+  color: e99695
