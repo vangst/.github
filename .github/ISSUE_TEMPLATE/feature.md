@@ -14,17 +14,12 @@ _Add a description for release notes_
 
 _Include design comps, user flows, analytics or relevant data points._
 
-## 🧰 Engineering Notes
-
-_Add any technical considerations_
+## 🏫Requirements:
+_ none yet _
 
 ## ❓ Questions
 
 _No questions_
-
-## ⭐️ Related
-
-_Link related Issues, PRs, Slack Threads, Docs, etc._
 
 ## 🏋️ Tasks
 
@@ -41,4 +36,7 @@ _No tasks_
 _No tasks_
 
 ## 🏋️ QA:
+_No tasks_
+
+## 🚜 Tracking:
 _No tasks_
