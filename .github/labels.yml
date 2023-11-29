@@ -37,3 +37,6 @@
 - name: 🎨 Design
   description: Design Task
   color: e99695
+- name: ⌛ hotRequest
+  description: Hot Request - a request out of cycle work
+  color: FD49B5
