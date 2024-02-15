@@ -1,37 +1,26 @@
-- name: BE
-  description: Backend work
-  color: 4395f2
 - name: 🧱 BE
   description: Backend work
   color: 4395f2
-- name: bug
-  description: Something isn't working
   color: ff0000
-- name: chore
+- name: 🧹 chore
   description: A non issue related ticket
   color: 3d3937
-- name: cooldown
+- name: 🧊 cooldown
   description: Something to work on between cycles
   color: afc6f2
-- name: FE
-  description: Frontend work
-  color: f9980d
 - name: 🌻 FE
   description: Frontend work
   color: f9980d
-- name: feature
+- name: 🎥 feature
   description: The fun stuff
   color: c5def5
-- name: dependencies
-  description: Dependabot pull requests that update a package
-  color: 0366d6
-- name: 🔥 p1
+- name: 🔥 p1 bug
   description: Highest Priority Bug
   color: e50000
-- name: 🤕 p2
+- name: 🤕 p2 bug
   description: Medium Priority Bug
   color: cc0000
-- name: 🐌 p3
+- name: 🐌 p3 bug
   description: Low Priority Bug
   color: b20000
 - name: 🎨 Design
@@ -40,3 +29,27 @@
 - name: ⌛ hotRequest
   description: Hot Request - a request out of cycle work
   color: FD49B5
+- name: ❓ Question
+  description: Hot Request - a request out of cycle work
+  color: FD49B5
+- name: 📚 Documentation
+  description: Documentation Task
+  color: 0075ca
+- name: 📦 Release
+  description: Release Task
+  color: 0075ca
+- name: 📝 Needs QA
+  description: Review Task
+  color: 0075ca
+- name: 📅 Schedule
+  description: Schedule Task
+  color: 0075ca
+- name: 📋 Planning
+  description: Planning Task
+  color: 0075ca
+- name: 📌 Priority
+  description: Priority Task
+  color: 0075ca
+- name: 📐 Architecture
+  description: Architecture Task
+  color: 0075ca
