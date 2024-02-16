@@ -34,22 +34,31 @@
   color: FD49B5
 - name: 📚 Documentation
   description: Documentation Task
-  color: 0075ca
+  color: B8B799
 - name: 📦 Release
   description: Release Task
-  color: 0075ca
+  color: 6C4675
 - name: 📝 Needs QA
   description: Review Task
-  color: 0075ca
+  color: 9B111E
 - name: 📅 Schedule
   description: Schedule Task
-  color: 0075ca
+  color: 2A6478
 - name: 📋 Planning
   description: Planning Task
-  color: 0075ca
+  color: 063971
 - name: 📌 Priority
   description: Priority Task
-  color: 0075ca
+  color: E63244
 - name: 📐 Architecture
   description: Architecture Task
-  color: 0075ca
+  color: 4C9141
+- name: 🦐 small batch
+  description: Small Batch
+  color: A98307
+- name: 🐋 big batch
+  description: Big Batch
+  color: 317F43
+- name: dependencies
+  description: Dependency Task
+  color: 6C4675

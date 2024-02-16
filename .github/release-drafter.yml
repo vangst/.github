@@ -3,16 +3,17 @@ tag-template: v$NEXT_PATCH_VERSION
 categories:
   - title: 🚀 Features
     labels:
-      - feature
-      - big batch
-      - small batch
+      - 🎥 feature
+      - 🐋 big batch
+      - 🦐 small batch
   - title: 🐛 Bug Fixes
     labels:
-      - fix
-      - bug
+      - 🐌 p3 bug
+      - 🤕 p2 bug
+      - 🔥 p1 bug
   - title: 🧰 Maintenance
     labels:
-      - chore
+      - 🧹 chore
   - title: 📦️ Dependencies
     labels:
       - dependencies
