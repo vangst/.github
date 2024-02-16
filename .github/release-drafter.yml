@@ -14,6 +14,7 @@ categories:
   - title: 📢 Ad-hoc Work
     labels:
       - 📢 ad-hoc
+      - ⌛ hotRequest
   - title: 🧰 Maintenance
     labels:
       - 🧹 chore

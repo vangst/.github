@@ -9,7 +9,7 @@
   description: Something to work on between cycles
   color: afc6f2
 - name: 🌻 FE
-  description: Frontend work
+  description: frontend work
   color: f9980d
 - name: 🎥 feature
   description: The fun stuff
@@ -23,34 +23,34 @@
 - name: 🐌 p3 bug
   description: Low Priority Bug
   color: b20000
-- name: 🎨 Design
+- name: 🎨 design
   description: Design Task
   color: e99695
 - name: ⌛ hotRequest
   description: Hot Request - a request out of cycle work
   color: FD49B5
-- name: ❓ Question
+- name: ❓ question
   description: Hot Request - a request out of cycle work
   color: FD49B5
-- name: 📚 Documentation
+- name: 📚 documentation
   description: Documentation Task
   color: B8B799
-- name: 📦 Release
+- name: 📦 release
   description: Release Task
   color: 6C4675
-- name: 📝 Needs QA
+- name: 📝 needs QA
   description: Review Task
   color: 9B111E
-- name: 📅 Schedule
+- name: 📅 schedule
   description: Schedule Task
   color: 2A6478
-- name: 📋 Planning
+- name: 📋 planning
   description: Planning Task
   color: 063971
-- name: 📌 Priority
+- name: 📌 priority
   description: Priority Task
   color: E63244
-- name: 📐 Architecture
+- name: 📐 architecture
   description: Architecture Task
   color: 4C9141
 - name: 🦐 small batch
