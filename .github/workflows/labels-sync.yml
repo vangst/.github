@@ -14,7 +14,6 @@ jobs:
       matrix:
         repo:
           - vangst/smokey
-          - vangst/platform
           - vangst/oogmerk
           - vangst/oogst
     runs-on: ubuntu-latest
