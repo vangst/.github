@@ -11,6 +11,9 @@ categories:
       - 🐌 p3 bug
       - 🤕 p2 bug
       - 🔥 p1 bug
+  - title: 📢 Ad-hoc Work
+    labels:
+      - 📢 ad-hoc
   - title: 🧰 Maintenance
     labels:
       - 🧹 chore

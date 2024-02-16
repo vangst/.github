@@ -62,3 +62,6 @@
 - name: dependencies
   description: Dependency Task
   color: 6C4675
+- name: 📢 ad-hoc
+  description: Ad-hoc Task
+  color: E1CC4F
