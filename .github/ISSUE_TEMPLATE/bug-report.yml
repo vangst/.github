@@ -27,6 +27,14 @@ body:
       placeholder: What blew up?
     validations:
       required: true
+ - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps To Reproduce
+      description: Describe, in as much detail as possible, the steps to reproduce this bug.
+      placeholder: e.g.: Log into the app as a candidate, then click on the navbar.
+    validations:
+      required: true
   - type: textarea
     id: logs
     attributes:
