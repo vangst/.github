@@ -9,7 +9,7 @@
   description: Something to work on between cycles
   color: afc6f2
 - name: 🌻 FE
-  description: frontend work
+  description: Frontend work
   color: f9980d
 - name: 🎥 feature
   description: The fun stuff
@@ -26,11 +26,11 @@
 - name: 🎨 design
   description: Design Task
   color: e99695
-- name: ⌛ hotRequest
-  description: Hot Request - a request out of cycle work
+- name: ⌛ hot request
+  description: Hot Request - A request out of cycle work
   color: FD49B5
 - name: ❓ question
-  description: Hot Request - a request out of cycle work
+  description: Question - Needs discussion
   color: FD49B5
 - name: 📚 documentation
   description: Documentation Task
@@ -39,7 +39,7 @@
   description: Release Task
   color: 6C4675
 - name: 📝 needs QA
-  description: Review Task
+  description: Something that needs QA
   color: 9B111E
 - name: 📅 schedule
   description: Schedule Task
