@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: Something not good happened
+about: Markdown Style - File a bug report
 labels: bug
 ---
 
