@@ -18,6 +18,7 @@ categories:
   - title: 🧰 Maintenance
     labels:
       - 🧹 chore
+      - 🧊 cooldown
   - title: 📦️ Dependencies
     labels:
       - dependencies
