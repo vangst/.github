@@ -1,14 +1,14 @@
 ---
 name: Bug
 about: Something not good happened
-labels: bug, (p1, p2, p3)
+labels: bug
 ---
 
 ### Who reported this bug?
 
-_No response_
-
 ### What is the priority of this bug?
+_add `p1` `p2` or `p3` to the `labels` section of the head of this document after `bug`, separated by a comma_
+_ie: `labelx: bug, p1` 
 
 - [ ] 🔥 (p1)
 - [ ] 🤕 (p2)
