@@ -1,6 +1,6 @@
 ---
 name: Feature
-about: Markdown Style - Shaping and tracking new features
+about: Markdown Style - Document a new feature request
 labels: 'feature'
 ---
 
