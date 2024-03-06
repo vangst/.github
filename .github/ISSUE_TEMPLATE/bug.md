@@ -1,6 +1,6 @@
 ---
 name: Bug
-description: Something not good happened
+about: Something not good happened
 labels: bug
 body:
 - type: dropdown
