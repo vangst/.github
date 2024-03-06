@@ -1,27 +1,41 @@
 ---
 name: Bug
 about: Something not good happened
-labels: bug
+labels: bug, (p1, p2, p3)
 ---
 
-## Report
+### Who reported this bug?
 
-_Add a high level, human readable description for public facing release notes_
+_No response_
 
-### :fire: or :face_with_head_bandage: or :snail:
+### What is the priority of this bug?
 
-1. List the steps to reproduce
+- [ ] 🔥 (p1)
+- [ ] 🤕 (p2)
+- [ ] 🐌 (p3)
 
-2. Include errors or screenshots
+### What happened?
 
-```
-Paste any relevant console error in this code block
-```
 
-3. If applicable, add device information or paste the link from [whatismybrowser.com](https://www.whatismybrowser.com).
+### Steps To Reproduce
 
-- OS: [e.g. Windows, macOS, iOS]
-- Browser: [e.g. Chrome, Safari]
-- Browser Version: [e.g. 23]
 
+### Relevant error log output
+
+
+### What OS(s) are you seeing the problem on?
+
+- [ ] Windows
+- [ ] Mac
+- [ ] iPhone
+- [ ] Android
+
+### What browser(s) are you seeing the problem on?
+
+- [ ] Firefox
+- [ ] Chrome
+- [ ] Safari
+- [ ] Microsoft Edge
+
+### Browser Version
 
