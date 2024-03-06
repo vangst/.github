@@ -1,11 +1,4 @@
-## 🎁 Product Summary
+Please go the the `Preview` tab and select the appropriate sub-template:
 
-_Add a description for release notes_
-
-## 🧰 Engineering Summary
-
-_Add a description for code reviews_
-
-## ⭐️ Related
-
-_Link related Issues, PRs, Slack Threads, Docs, etc._
+* [Detailed Template](?expand=1&template=detailed.md)
+* [Simple Template](?expand=1&template=simple.md)
