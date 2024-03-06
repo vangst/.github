@@ -46,7 +46,7 @@ body:
       label: 🧜‍♂️ Back-End
       description: List any front-end todos.
   - type: textarea
-    id: back-end
+    id: qa
     attributes:
       label: 🦺 QA
       description: List ways to kick the tires on this feature before deploying to production.
