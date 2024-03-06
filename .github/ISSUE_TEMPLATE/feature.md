@@ -4,7 +4,7 @@ about: Shaping and tracking new features
 labels: 'feature'
 ---
 
-###📓 Feature Summary
+### 📓 Feature Summary
 _Include a high level, human readable description of the requested feature for public facing release notes._
 
 ### 📔 MVP Acceptance Criteria  
