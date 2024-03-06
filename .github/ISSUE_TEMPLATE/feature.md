@@ -8,35 +8,22 @@ assignees: ''
 
 <img src="https://source.unsplash.com/848x256/daily?fish" width="100%" height="100%" />
 
-## 🎁 Product Summary
+## 📓 Feature Summary
 
-_Add a description for release notes_
+_Add a human readable description for public facing release notes_
 
-_Include design comps, user flows, analytics or relevant data points._
+## 📔 MVP User Stories:
+_- [ ] (example) As a candidate, I log in and land on the dashboard_
 
-## 🏫 Requirements:
-_ none yet _
+## 📕 Questions
 
-## ❓ Questions
+## 📗 Tasks
 
-_No questions_
+### Design: 
+- [Link To Figma](*********)
 
-## 🏋️ Tasks
+### Font-End: 
 
-### 🎨 Design: 
-_No tasks_
+### Back-End: 
 
-### 🔬 Product: 
-_No tasks_
-
-### 🌻 Font-End: 
-_No tasks_
-
-### 🧱 Back-End: 
-_No tasks_
-
-## 🏋️ QA:
-_No tasks_
-
-## 🚜 Tracking:
-_No tasks_
+### QA:
