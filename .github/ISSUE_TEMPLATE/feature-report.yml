@@ -1,6 +1,6 @@
 name: Feature Report
 description: Document a new feature request
-labels: ["bug"]
+labels: ["feature"]
 body:
   - type: textarea
     id: feature-summary
