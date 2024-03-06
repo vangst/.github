@@ -1,29 +1,26 @@
 ---
 name: Feature
 about: Shaping and tracking new features
-title: ''
-labels: ''
-assignees: ''
+labels: 'feature'
 ---
 
-<img src="https://source.unsplash.com/848x256/daily?fish" width="100%" height="100%" />
+###📓 Feature Summary
+_Include a high level, human readable description of the requested feature for public facing release notes._
 
-## 📓 Feature Summary
+### 📔 MVP Acceptance Criteria  
+_List the acceptance criteria required to satisfy the "definition of done"._
 
-_Add a human readable description for public facing release notes_
+### 📕 Questions
+_If there are any remaining questions or grey areas, list those here._
 
-## 📔 MVP User Stories:
-_- [ ] (example) As a candidate, I log in and land on the dashboard_
+### 🔗 Figma/Design File
+[Figma File]( )
 
-## 📕 Questions
+### 🎨 Design
 
-## 📗 Tasks
+### 🐉 Front-End
 
-### Design: 
-- [Link To Figma](*********)
+### 🧜‍♂️ Back-End
 
-### Font-End: 
+### 🦺 QA
 
-### Back-End: 
-
-### QA:
