@@ -1,0 +1,11 @@
+name: Blank Report
+description: Take some notes
+labels: ["chore"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: 📓 Description
+      description: Add details.
+    validations:
+      required: true
