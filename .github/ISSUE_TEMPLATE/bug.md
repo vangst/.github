@@ -37,5 +37,5 @@ _ie: `labelx: bug, p1`_
 - [ ] Safari
 - [ ] Microsoft Edge
 
-### Browser Version
+### Browser Version:
 _ie: `Version 122.0.6261.94 (Official Build) (arm64)`, found under About in a top level menu of the browser you are on_
