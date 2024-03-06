@@ -24,7 +24,7 @@ body:
     attributes:
       label: What happened?
       description: Include a high level, human readable description of what hapened for public facing release notes.
-      placeholder: e.g.: Candidates are unable to save their member profiles.
+      placeholder: e.g. Candidates are unable to save their member profiles.
     validations:
       required: true
  - type: textarea
@@ -32,7 +32,7 @@ body:
     attributes:
       label: Steps To Reproduce
       description: Describe, in as much detail as possible, the steps that lead you to this bug.
-      placeholder: e.g.: Log into the app as a candidate, then click on edit profile. Fill out everything but location, and hit save.
+      placeholder: e.g. Log into the app as a candidate, then click on edit profile. Fill out everything but location, and hit save.
     validations:
       required: true
   - type: textarea
