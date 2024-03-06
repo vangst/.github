@@ -1,0 +1,67 @@
+name: Bug Report
+description: File a bug report
+labels: ["bug"]
+body:
+  - type: input
+    id: contact
+    attributes:
+      label: Who reported this bug?
+      placeholder: ex. Anthony Medina
+    validations:
+      required: false
+  - type: dropdown
+    id: priority
+    attributes:
+      label: What is the priority of this bug?
+      options:
+        - 🔥 (p1)
+        - 🤕 (p2)
+        - 🐌 (p3)
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Include a high level, human readable description of what hapened for public facing release notes.
+      placeholder: What blew up?
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant error log output
+      description: Please copy and paste any relevant console error output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+  - type: dropdown
+    id: os
+    attributes:
+      label: What OS(s) are you seeing the problem on?
+      multiple: true
+      options:
+        - Windows
+        - Mac
+        - iPhone
+        - Android
+    validations:
+      required: false
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browser(s) are you seeing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+    validations:
+      required: false  
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: If applicable, add version information.
+      placeholder: e.g. 23
+    validations:
+      required: false
