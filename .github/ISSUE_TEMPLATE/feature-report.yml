@@ -7,7 +7,7 @@ body:
     attributes:
       label: 📓 Feature Summary
       description: Include a high level, human readable description of the requested feature for public facing release notes.
-      placeholder: e.g.: Add a calendly input field on candidate profiles.
+      placeholder: e.g. Add a calendly input field on candidate profiles.
     validations:
       required: true
  - type: textarea
@@ -15,7 +15,7 @@ body:
     attributes:
       label: 📔 MVP Acceptance Criteria
       description: List the acceptance criteria required to satisfy the "definition of done".
-      placeholder: - [ ] I should see a calendly input field when editing my user profile.
+      placeholder: e.g. I should see a calendly input field when editing my user profile.
     validations:
       required: true
   - type: textarea
@@ -23,7 +23,7 @@ body:
     attributes:
       label: 📕 Questions
       description: If there are any remaining questions or grey areas, list those here.
-      placeholder: e.g.: Do we need to trigger an email for this feature?
+      placeholder: e.g. Do we need to trigger an email for this feature?
   - type: input
     id: figma
     attributes:
@@ -34,7 +34,7 @@ body:
     attributes:
       label: 🎨 Design
       description: List any design todos.
-      placeholder: e.g.: - [ ] Export icons
+      placeholder: e.g. - [ ] Export icons
   - type: textarea
     id: front-end
     attributes:
