@@ -38,7 +38,16 @@ body:
   - type: textarea
     id: front-end
     attributes:
-      label:  Design
-      description: List any design todos.
-      placeholder: e.g.: - [ ] Export icons
+      label: 🐉 Front-End
+      description: List any front-end todos.
+  - type: textarea
+    id: back-end
+    attributes:
+      label: 🧜‍♂️ Back-End
+      description: List any front-end todos.
+  - type: textarea
+    id: back-end
+    attributes:
+      label: 🦺 QA
+      description: List ways to kick the tires on this feature before deploying to production.
  
