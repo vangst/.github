@@ -1,6 +1,6 @@
 ---
 name: Blank
-about: What's the saga?
+about: Markdown Style - Take some notes
 ---
 
 ### 📓 Description
