@@ -16,6 +16,8 @@ jobs:
           - vangst/smokey
           - vangst/oogmerk
           - vangst/oogst
+          - vangst/brine
+          - vangst/pikl
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
