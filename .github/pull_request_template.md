@@ -12,3 +12,4 @@
 
 ## ✓ Checks
 - [ ] Did you add a label to this PR? (feature, chore, bug, etc - this helps categorize changes nicely in the auto-generated release notes)
+- [ ] Did you make sure all copy strings are in a dictionary?
